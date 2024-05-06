@@ -1,0 +1,83 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>recources/Background.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>recources/Radio icon.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>recources/Auto icon.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix4">
+        <file>recources/Main car.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix5">
+        <file>recources/Wifi.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix6">
+        <file>recources/Charge.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix7">
+        <file>recources/Arrows left.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix8">
+        <file>recources/Music pause.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix9">
+        <file>recources/Arrows right.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix10">
+        <file>recources/Classic/Classic1.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix11">
+        <file>recources/Classic/Classic2.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix12">
+        <file>recources/Classic/Classic3.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix13">
+        <file>recources/Jazz/jazz1.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix14">
+        <file>recources/Jazz/jazz2.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix15">
+        <file>recources/Jazz/jazz3.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix16">
+        <file>recources/Pop/Pop1.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix17">
+        <file>recources/Pop/Pop2.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix18">
+        <file>recources/Pop/Pop3.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix19">
+        <file>recources/RnB/Rnb1.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix20">
+        <file>recources/RnB/Rnb2.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix21">
+        <file>recources/RnB/Rnb3.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix22">
+        <file>recources/Rock/rock1.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix23">
+        <file>recources/Rock/rock2.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix24">
+        <file>recources/Rock/rock3.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix25">
+        <file>recources/rRoll/rRoll1.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix26">
+        <file>recources/rRoll/rRoll2.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix27">
+        <file>recources/rRoll/rRoll3.mp3</file>
+    </qresource>
+</RCC>

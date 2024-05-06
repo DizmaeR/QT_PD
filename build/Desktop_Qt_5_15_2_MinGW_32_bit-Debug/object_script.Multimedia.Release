@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/radiowindow.o
+release/widgetback.o
+release/widgethome.o
+release/widgetmusic.o
+release/widgetradio.o
+release/qrc_recource.o
+release/moc_mainwindow.o
+release/moc_radiowindow.o
+release/moc_widgetback.o
+release/moc_widgethome.o
+release/moc_widgetmusic.o
+release/moc_widgetradio.o

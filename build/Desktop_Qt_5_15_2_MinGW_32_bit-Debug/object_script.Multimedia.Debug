@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/radiowindow.o
+debug/widgetback.o
+debug/widgethome.o
+debug/widgetmusic.o
+debug/widgetradio.o
+debug/qrc_recource.o
+debug/moc_mainwindow.o
+debug/moc_radiowindow.o
+debug/moc_widgetback.o
+debug/moc_widgethome.o
+debug/moc_widgetmusic.o
+debug/moc_widgetradio.o
