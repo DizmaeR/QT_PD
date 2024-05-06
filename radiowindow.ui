@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>RadioWindow</class>
+ <widget class="QWidget" name="RadioWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1440</width>
+    <height>920</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="homeButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>820</y>
+     <width>100</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pauseButton">
+   <property name="geometry">
+    <rect>
+     <x>698</x>
+     <y>469</y>
+     <width>50</width>
+     <height>64</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="jazzButton">
+   <property name="geometry">
+    <rect>
+     <x>193</x>
+     <y>624</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string>Jazz</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="popButton">
+   <property name="geometry">
+    <rect>
+     <x>374</x>
+     <y>624</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string>Pop</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="classicButton">
+   <property name="geometry">
+    <rect>
+     <x>1098</x>
+     <y>624</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string>Classic</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="rockButton">
+   <property name="geometry">
+    <rect>
+     <x>555</x>
+     <y>624</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string>Rock</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="rRollButton">
+   <property name="geometry">
+    <rect>
+     <x>736</x>
+     <y>624</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string>Rock n Roll</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="RnbButton">
+   <property name="geometry">
+    <rect>
+     <x>917</x>
+     <y>624</y>
+     <width>150</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255,255,255,0);
+border: none;
+</string>
+   </property>
+   <property name="text">
+    <string>RnB</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
